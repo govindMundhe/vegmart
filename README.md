@@ -1,9 +1,3 @@
-# PickBazar Documentation
-
-# Introduction
-
-Fastest E-commerce template built with React, NextJS, TypeScript, GraphQL, Type-GraphQL & Styled-Components. Its very easy to use, we used graphql and type-graphql, you can build your schema very easily. GraphQL playground makes it’s own documentation, your frontend team will love using it.
-
 # Tech We Have Used
 
 We have used monorepo folder structure with Yarn Workspace. In our template we have three different part Admin Dashboard, Shop and API. Tech specification for specific part is given below
